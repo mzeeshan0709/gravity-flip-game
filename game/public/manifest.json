@@ -1,0 +1,18 @@
+{
+  "name": "Gravity Flip Adventure",
+  "short_name": "GravityFlip",
+  "description": "A polished 3D sci-fi gravity-switching platformer game.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#060913",
+  "theme_color": "#060913",
+  "icons": [
+    {
+      "src": "/tode.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
