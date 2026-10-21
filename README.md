@@ -1,6 +1,6 @@
 # Gravity Flip 🌌
 
-A fast-paced, minimalist 2D arcade platformer built for the browser using modern web technologies and the HTML5 Canvas API. Instead of traditional jumping, players navigate dynamic courses by inverting gravity on command, traversing between the floor and ceiling while dodging procedural hazards.
+A fast-paced, minimalist 3D arcade platformer built for the browser using modern web technologies and the HTML5 Canvas API. Instead of traditional jumping, players navigate dynamic courses by inverting gravity on command, traversing between the floor and ceiling while dodging procedural hazards.
 
 🎮 **Live Demo:** [gravity-flip-games.netlify.app](https://gravity-flip-games.netlify.app/)
 
